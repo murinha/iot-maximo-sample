@@ -5,10 +5,10 @@
 	
 	"maximo-options": {
 		"protocol": "",
-		"hostname": "",
-		"port": "",
-		"user": "",
-		"password": "",
+		"hostname": "qawin03.swg.usma.ibm.com",
+		"port": "9081",
+		"user": "wilson",
+		"password": "wilson",
 		"auth_scheme": "",
 		"authtype": "",
 		"islean": 1
